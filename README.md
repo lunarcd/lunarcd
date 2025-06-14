@@ -27,7 +27,7 @@
 ![Java](https://img.shields.io/badge/JAVA-blue?style=for-the-badge&logo=java)
 
 ### Techs
-![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=typescript&logoColor=white)
+![Mysql](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Axum](https://img.shields.io/badge/Axum-000000?style=for-the-badge&logo=rust&logoColor=white)
 
