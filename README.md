@@ -4,7 +4,7 @@
 
 ---
 
-## 🥚 About Me  
+## 🐸 About Me  
 
 - **Backend Development:** Designing scalable, reliable, and high-performance systems.
 
