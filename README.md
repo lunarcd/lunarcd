@@ -6,16 +6,15 @@
 
 ## 🐸 About Me  
 
-- **Backend Development:** Designing scalable, reliable, and high-performance systems.
+**Backend Development:** Designing scalable, reliable, and high-performance systems.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lunarcd&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Lunarcd&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
-
-![](https://github-profile-trophy.vercel.app/?username=Lunarcd&theme=darkhub&column=3&margin-w=15&margin-h=15)
+![](https://github-readme-stats.vercel.app/api?username=lunarcd&show_icons=true&theme=github_dark)  
+![](https://github-readme-stats.vercel.app/api/top-langs?username=lunarcd&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
+![](https://github-profile-trophy.vercel.app/?username=lunarcd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -40,6 +39,8 @@
 ![Typst](https://img.shields.io/badge/Typst-000000?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=assertJ&logoColor=white)
 ![AssertJ](https://img.shields.io/badge/AssertJ-C562AF?style=for-the-badge&logo=java&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
 
 ## 🌟 Connect with me
 
@@ -48,4 +49,4 @@
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
 
 ---
-![](https://count.getloli.com/@Lunarcd?name=Lunarcd&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![](https://count.getloli.com/@lunarcd?name=lunarcd&theme=moebooru&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
