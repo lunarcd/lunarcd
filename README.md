@@ -13,8 +13,10 @@
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lunarcd&show_icons=true&theme=github_dark)  
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=lunarcd&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
-![](https://github-profile-trophy.vercel.app/?username=lunarcd&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=lunarcd&theme=darkhub&column=3&margin-w=15&margin-h=15)
 
 ---
 
