@@ -48,7 +48,8 @@
 
 ## 🌟 Connect with me
 
-- **Email:** [nhatanhth0212@gmail.com](mailto:nhatanhth0212@gmail.com)  
+- **Email:** [nhatanhth0212@gmail.com](mailto:nhatanhth0212@gmail.com)
+- **Phone:** +84 877 794 345
 
 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration. 🚀
 
