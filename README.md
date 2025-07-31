@@ -6,7 +6,7 @@
 
 ## 🐸 About Me  
 
-**Backend Development:** Designing scalable, reliable, and high-performance systems.
+**Backend Developer:** Designing scalable, reliable, and high-performance systems.
 
 ---
 
